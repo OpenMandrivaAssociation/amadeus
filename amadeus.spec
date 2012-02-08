@@ -5,12 +5,12 @@ Group:			Education
 License:		GPL
 Summary:		Amadeus Learning Management System
 Version:		0.95.0
-Release:		%mkrel 1
+Release:		%mkrel 2
 URL:			http://www.softwarepublico.gov.br/dotlrn/clubs/amadeus
 Source0:		http://www.softwarepublico.gov.br/dotlrn/clubs/amadeus/file-storage/view/amadeus-para-instalar/amadeuslms-v00-95-00/AmadeusLMS-v00.95.00.zip
 BuildRoot:		%{_tmppath}/%{name}-%{vers}-%{release}-buildroot
 
-Requires:		httpd
+Requires:		webserver
 Requires:		postgresql-server
 Requires:		tomcat6
 Requires:		xdg-utils
