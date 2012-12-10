@@ -150,3 +150,15 @@ chmod +x %{buildroot}%{amadeusdir}/install.sh
 %files
 %defattr(-,root,root)
 %{amadeusdir}
+
+
+%changelog
+* Wed Feb 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.95.0-2mdv2012.0
++ Revision: 772011
+- Require webserver and not httpd.
+
+* Thu Feb 24 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.95.0-1
++ Revision: 639724
+- Import Amadeus 0.95.0
+- amadeus
+
