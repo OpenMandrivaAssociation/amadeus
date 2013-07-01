@@ -3,7 +3,7 @@
 Name:			amadeus
 Group:			Education
 License:		GPL
-Summary:		Amadeus Learning Management System
+Summary:		Learning Management System
 Version:		0.95.0
 Release:		%mkrel 2
 URL:			http://www.softwarepublico.gov.br/dotlrn/clubs/amadeus
