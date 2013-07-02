@@ -1,5 +1,7 @@
 %define amadeusdir	%{_datadir}/amadeus
 
+%define debug_package %{nil}
+
 Name:			amadeus
 Group:			Education
 License:		GPL
