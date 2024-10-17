@@ -8,7 +8,7 @@ License:		GPL
 Summary:		Learning Management System
 Version:		0.95.0
 Release:		4
-URL:			http://www.softwarepublico.gov.br/dotlrn/clubs/amadeus
+URL:			https://www.softwarepublico.gov.br/dotlrn/clubs/amadeus
 Source0:		http://www.softwarepublico.gov.br/dotlrn/clubs/amadeus/file-storage/view/amadeus-para-instalar/amadeuslms-v00-95-00/AmadeusLMS-v00.95.00.zip
 
 Requires:		webserver
